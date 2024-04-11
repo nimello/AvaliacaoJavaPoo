@@ -34,7 +34,7 @@ public class Festival {
 		System.out.println(palco1);
 		palco1.mostrarEventos();
 		System.out.println(palco2);
-		palco1.mostrarEventos();
+		palco2.mostrarEventos();
 
 	}
 }
