@@ -1,0 +1,14 @@
+package festival.classes;
+
+public class Cantor extends Artista {
+
+	public Cantor(String nome, Genero genero, double cache) {
+		super(nome, genero, cache);
+	}
+
+	@Override
+	public String toString() {
+		return super.toString();
+	}
+	
+}
